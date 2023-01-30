@@ -1,10 +1,10 @@
 @font-face {
-    src: url(/fonts/Goldbugs.ttf);
+    src: url(../fonts/Goldbugs.ttf);
     font-family: GoldBug;
 }
 
 @font-face {
-    src: url(/fonts/ValleyPersonalUse.ttf);
+    src: url(../fonts/ValleyPersonalUse.ttf);
     font-family: Valley;
 }
 
