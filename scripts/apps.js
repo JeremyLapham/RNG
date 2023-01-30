@@ -15,7 +15,7 @@ rndBtn.addEventListener('click', function () {
     getJson();
 });
 function getJson() {
-    fetch('/data/data.JSON').then(
+    fetch('../data/data.JSON').then(
         response => response.json()
     ).then(
         data => {
